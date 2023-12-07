@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KIlzpZKbKATa6U/RCbwgBF1AqVb6PqjC429K5TlQhphn6fpaM8urdU+OqUp5BHQQngp4G+kYssopTt4WZGFGeA==",
+  "success": true,
+  "projectFilePath": "E:\\Projectforcv\\employee\\Employee.Service.Model\\Employee.Service.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
